@@ -6,7 +6,10 @@ test
 * [![RStudio](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/jaanos/APPR-2019-20/master?urlpath=rstudio) RStudio
 
 ## Tematika
-V tej projektni nalogi bom analizirala gradbeništvo v Sloveniji s pomočjo podatkov pridobljenih na spletni strani Statističnega urada Republike Slovenije(SURS). Pokazati želim, kako se gradbena dovoljenja nepremičnin različnih velikosti razlikujejo po občinah, statističnih regijah v posameznem letu za določen tip investitorja(pravna ali fizična oseba). Od rezultatov pričakujem ugotovitve v katerih delih Slovenije je panoga bolj oz. manj razširjena ter kateri dejavniki vplivajo na povečanje oz. zmanjšanje gradbenih aktivnosti.
+V tej projektni nalogi bom analizirala gradbeništvo v Sloveniji s pomočjo podatkov pridobljenih na spletni strani Statističnega urada Republike Slovenije(SURS). 
+
+Pokazati želim, kako se ocena stanovanj in stavb različnih velikosti razlikujejo po občinah, statističnih regijah v posameznem letu za določen tip investitorja(pravna ali fizična oseba). Od rezultatov pričakujem ugotovitve v katerih delih Slovenije je panoga bolj oz. manj razširjena ter kateri dejavniki vplivajo na povečanje oz. zmanjšanje gradbenih del.
+
 
 ### Tabele
 1. TABELA Ocena stanovanj v gradnji in dokončanih stanovanj, Slovenija, letno
