@@ -6,9 +6,21 @@ test
 * [![RStudio](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/jaanos/APPR-2019-20/master?urlpath=rstudio) RStudio
 
 ## Tematika
+V tej projektni nalogi bom analizirala gradbeništvo v Sloveniji s pomočjo podatkov pridobljenih na spletni strani Statističnega urada Republike Slovenije(SURS). Pokazati želim, kako so gradbena dovoljenja nepremičnin odvisna od spremnljivk kot so 
 
-Izbrali si boste temo, s katero se bo vaš projekt ukvarjal.
-Tukaj boste napisali, kje ste dobili podatke, ter kakšen je vaš cilj.
+### Tabele
+1. TABELA Ocena stanovanj v gradnji in dokončanih stanovanj, Slovenija, letno
+
+2. TABELA Ocena dokončanih stanovanj - izbrani kazalniki, po statističnih regijah Slovenije, letno
+
+3. TABELA Ocena dokončanih stanovanj - izbrani kazalniki, po občinah Slovenije, letno
+
+4. TABELA Ocena dokončanih stavb in stavb v gradnji ob koncu leta, Slovenija, letno
+
+5. TABELA Dovoljenja za gradnjo stavb: število stavb, njihova gradbena velikost in stanovanja v njih, glede na vrsto stavbe in vrsto investitorja, Slovenija, letno
+
+6. TABELA Dovoljenja za gradnjo stavb: število stavb, njihova gradbena velikost in stanovanja v njih, glede na vrsto stavbe in vrsto investitorja, po statističnih regijah Slovenije, letno
+
 
 ## Program
 
