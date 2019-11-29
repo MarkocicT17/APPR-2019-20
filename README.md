@@ -21,13 +21,13 @@ Pokazati želim, kako se ocena stanovanj in stavb različnih velikosti razlikuje
 *število dokončanih stanovanj glede na tip stavbe(ena ali več stanovanjska stavba in nestanovanjeske stavbe npr. poslovna, gostinska, kulturna)
 
 ### Tabele
-1. TABELA Ocena stanovanj v gradnji in dokončanih stanovanj, Slovenija, letno
+1. TABELA Ocena stanovanj v gradnji in dokončanih stanovanj, Slovenija, letno (glede na površino, štveilo sob, investitor, na 1000 preb.)
 
 2. TABELA Ocena dokončanih stanovanj - izbrani kazalniki, po statističnih regijah Slovenije, letno 
 
 3. TABELA Ocena dokončanih stanovanj - izbrani kazalniki, po občinah Slovenije, letno
 
-4. TABELA Ocena dokončanih stavb in stavb v gradnji ob koncu leta, Slovenija, letno
+4. TABELA Ocena dokončanih stavb in stavb v gradnji ob koncu leta, Slovenija, letno (tip stavbe, tip gradbene aktivnosti-novogradnja, povečava, sprememba namembnosti, investitor)
 
 5. TABELA Vrednost opravljenih gradbenih del [v EUR] po tipu gradbene aktivnosti in vrsti objektov, Slovenija, letno
 
