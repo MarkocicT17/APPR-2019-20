@@ -35,7 +35,7 @@ Pokazati želim, kako se ocena stanovanj in stavb različnih velikosti razlikuje
 
 7. TABELA Dovoljenja za gradnjo stavb: število stavb, njihova gradbena velikost in stanovanja v njih, glede na vrsto stavbe, po občinah Slovenije, letno    
 
-Za nadgradnjo bi lahko svoje podatke primerjala s kakšno drugo tematiko npr. z izobrazbo ljudi, povprečnimi mesečnimi plačami ali s podatki o onesnaževanju okolja po občinah oz. statističnih regijah ter tako dobila boljši vpogled, kaj vse vpliva na gradnjo objektov v posameznih delih Slovenije.
+Za nadgradnjo bi lahko svoje podatke primerjala s kakšno drugo tematiko npr. z izobrazbo ljudi, povprečnimi mesečnimi plačami v posamezni občini in statistični regiji.
 
 # Povezave do tabel
 https://pxweb.stat.si/SiStatDb/pxweb/sl/20_Ekonomsko/20_Ekonomsko__19_gradbenistvo__05_19069_graditev_stan/1906901S.px/)
