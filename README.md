@@ -10,15 +10,15 @@ V tej projektni nalogi bom analizirala gradbeništvo v Sloveniji s pomočjo poda
 
 Pokazati želim, kako se ocena stanovanj in stavb različnih velikosti razlikujejo po občinah, statističnih regijah med leti 2008 do 2018 za določen tip investitorja(pravna ali fizična oseba). Podatke bom razvrstila glede na:
 
-*vrednost gradnje glede na tip investitorja, tip stavbe, statistične regije, občine
+-vrednost gradnje glede na tip investitorja, tip stavbe, statistične regije, občine
 
-*izdana gradbena dovoljenja za statistično regijo in občino glede na površino in prostornino, število stanovanj v stavbah)
+-izdana gradbena dovoljenja za statistično regijo in občino glede na površino in prostornino, število stanovanj v stavbah)
 
-*število dokončanih stanovanj na 1000 prebivalca
+-število dokončanih stanovanj na 1000 prebivalca
 
-*število dokončanih stanovanj na kvadratni meter
+-število dokončanih stanovanj na kvadratni meter
 
-*število dokončanih stanovanj glede na tip stavbe(ena ali več stanovanjska stavba in nestanovanjeske stavbe npr. poslovna, gostinska, kulturna)
+-število dokončanih stanovanj glede na tip stavbe(ena ali več stanovanjska stavba in nestanovanjeske stavbe npr. poslovna, gostinska, kulturna)
 
 ### Tabele
 1. TABELA Ocena stanovanj v gradnji in dokončanih stanovanj, Slovenija, letno (glede na površino, štveilo sob, investitor, na 1000 preb.)
