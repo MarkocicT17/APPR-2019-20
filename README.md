@@ -37,7 +37,7 @@ Pokazati želim, kako se ocena stanovanj in stavb različnih velikosti razlikuje
 
 Za nadgradnjo bi lahko svoje podatke primerjala s kakšno drugo tematiko npr. z izobrazbo ljudi, povprečnimi mesečnimi plačami v posamezni občini in statistični regiji.
 
-# Povezave do tabel
+### Povezave do tabel
 https://pxweb.stat.si/SiStatDb/pxweb/sl/20_Ekonomsko/20_Ekonomsko__19_gradbenistvo__05_19069_graditev_stan/1906901S.px/)
 https://pxweb.stat.si/SiStatDb/pxweb/sl/20_Ekonomsko/20_Ekonomsko__19_gradbenistvo__05_19069_graditev_stan/1906910S.px/)
 https://pxweb.stat.si/SiStatDb/pxweb/sl/20_Ekonomsko/20_Ekonomsko__19_gradbenistvo__05_19069_graditev_stan/1906911S.px/)
