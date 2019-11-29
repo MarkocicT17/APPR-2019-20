@@ -9,15 +9,16 @@ test
 V tej projektni nalogi bom analizirala gradbeništvo v Sloveniji s pomočjo podatkov pridobljenih na spletni strani Statističnega urada Republike Slovenije(SURS). 
 
 Pokazati želim, kako se ocena stanovanj in stavb različnih velikosti razlikujejo po občinah, statističnih regijah med leti 2008 do 2018 za določen tip investitorja(pravna ali fizična oseba). Od rezultatov pričakujem ugotovitve:
-- vrednost gradnje glede na tip investitorja, tip stavbe, statistične regije, občine
 
--izdana gradbena dovoljenja za statistično regijo in občino glede na površino in prostornino, število stanovanj v stavbah)
+vrednost gradnje glede na tip investitorja, tip stavbe, statistične regije, občine
 
--število dokončanih stanovanj na 1000 prebivalca
+izdana gradbena dovoljenja za statistično regijo in občino glede na površino in prostornino, število stanovanj v stavbah)
 
--število dokončanih stanovanj na kvadratni meter
+število dokončanih stanovanj na 1000 prebivalca
 
--število dokončanih stanovanj glede na tip stavbe(ena ali več stanovanjska stavba in nestanovanjeske stavbe npr. poslovna, gostinska, kulturna)
+število dokončanih stanovanj na kvadratni meter
+
+število dokončanih stanovanj glede na tip stavbe(ena ali več stanovanjska stavba in nestanovanjeske stavbe npr. poslovna, gostinska, kulturna)
 
 ### Tabele
 1. TABELA Ocena stanovanj v gradnji in dokončanih stanovanj, Slovenija, letno
