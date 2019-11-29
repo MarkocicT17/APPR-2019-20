@@ -8,7 +8,7 @@ test
 ## Tematika
 V tej projektni nalogi bom analizirala gradbeništvo v Sloveniji s pomočjo podatkov pridobljenih na spletni strani Statističnega urada Republike Slovenije(SURS). 
 
-Pokazati želim, kako se ocena stanovanj in stavb različnih velikosti razlikujejo po občinah, statističnih regijah v posameznem letu za določen tip investitorja(pravna ali fizična oseba). Od rezultatov pričakujem ugotovitve v katerih delih Slovenije je panoga bolj oz. manj razširjena ter kateri dejavniki vplivajo na povečanje oz. zmanjšanje gradbenih del.
+Pokazati želim, kako se ocena stanovanj in stavb različnih velikosti razlikujejo po občinah, statističnih regijah med leti 2008 do 2018 za določen tip investitorja(pravna ali fizična oseba). Od rezultatov pričakujem ugotovitve v katerih delih Slovenije je panoga bolj oz. manj razširjena ter kateri dejavniki vplivajo na povečanje oz. zmanjšanje gradbenih del.
 
 
 ### Tabele
