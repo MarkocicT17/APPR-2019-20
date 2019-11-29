@@ -8,31 +8,42 @@ test
 ## Tematika
 V tej projektni nalogi bom analizirala gradbeništvo v Sloveniji s pomočjo podatkov pridobljenih na spletni strani Statističnega urada Republike Slovenije(SURS). 
 
-Pokazati želim, kako se ocena stanovanj in stavb različnih velikosti razlikujejo po občinah, statističnih regijah med leti 2008 do 2018 za določen tip investitorja(pravna ali fizična oseba). Od rezultatov pričakujem ugotovitve v katerih delih Slovenije je panoga bolj oz. manj razširjena ter kateri dejavniki vplivajo na povečanje oz. zmanjšanje gradbenih del.
+Pokazati želim, kako se ocena stanovanj in stavb različnih velikosti razlikujejo po občinah, statističnih regijah med leti 2008 do 2018 za določen tip investitorja(pravna ali fizična oseba). Od rezultatov pričakujem ugotovitve:
+
+- vrednost gradnje glede na tip investitorja, tip stavbe, statistične regije, občine 
+-izdana gradbena dovoljenja za statistično regijo in občino glede na površino in prostornino, število stanovanj v stavbah)
+-število dokončanih stanovanj na 1000 prebivalca
+-število dokončanih stanovanj na kvadratni meter
+-število dokončanih stanovanj glede na tip stavbe(ena ali več stanovanjska stavba in nestanovanjeske stavbe npr. poslovna, gostinska, kulturna)
+
 
 
 ### Tabele
 1. TABELA Ocena stanovanj v gradnji in dokončanih stanovanj, Slovenija, letno
-(povezava:https://pxweb.stat.si/SiStatDb/pxweb/sl/20_Ekonomsko/20_Ekonomsko__19_gradbenistvo__05_19069_graditev_stan/1906901S.px/)
+
 2. TABELA Ocena dokončanih stanovanj - izbrani kazalniki, po statističnih regijah Slovenije, letno 
-(povezava: https://pxweb.stat.si/SiStatDb/pxweb/sl/20_Ekonomsko/20_Ekonomsko__19_gradbenistvo__05_19069_graditev_stan/1906910S.px/)
 
 3. TABELA Ocena dokončanih stanovanj - izbrani kazalniki, po občinah Slovenije, letno
-(povezava:https://pxweb.stat.si/SiStatDb/pxweb/sl/20_Ekonomsko/20_Ekonomsko__19_gradbenistvo__05_19069_graditev_stan/1906911S.px/)
 
 4. TABELA Ocena dokončanih stavb in stavb v gradnji ob koncu leta, Slovenija, letno
-(povezava:https://pxweb.stat.si/SiStatDb/pxweb/sl/20_Ekonomsko/20_Ekonomsko__19_gradbenistvo__05_19238_graditev_stavb/1923801S.px/)
 
 5. TABELA Vrednost opravljenih gradbenih del [v EUR] po tipu gradbene aktivnosti in vrsti objektov, Slovenija, letno
-(povezava:https://pxweb.stat.si/SiStatDb/pxweb/sl/20_Ekonomsko/20_Ekonomsko__19_gradbenistvo__07_19198_vrednost_del/1919801S.px/)
 
 6. TABELA Dovoljenja za gradnjo stavb: število stavb, njihova gradbena velikost in stanovanja v njih, glede na vrsto stavbe in vrsto investitorja, po statističnih regijah Slovenije, letno
-(povezava:https://pxweb.stat.si/SiStatDb/pxweb/sl/20_Ekonomsko/20_Ekonomsko__19_gradbenistvo__06_19707_dovoljenja/1970716S.px/)
 
 7. TABELA Dovoljenja za gradnjo stavb: število stavb, njihova gradbena velikost in stanovanja v njih, glede na vrsto stavbe, po občinah Slovenije, letno    
-(Povezava:https://pxweb.stat.si/SiStatDb/pxweb/sl/20_Ekonomsko/20_Ekonomsko__19_gradbenistvo__06_19707_dovoljenja/1970717S.px/)
 
 Za nadgradnjo bi lahko svoje podatke primerjala s kakšno drugo tematiko npr. z izobrazbo ljudi, povprečnimi mesečnimi plačami ali s podatki o onesnaževanju okolja po občinah oz. statističnih regijah ter tako dobila boljši vpogled, kaj vse vpliva na gradnjo objektov v posameznih delih Slovenije.
+
+# Povezave do tabel
+https://pxweb.stat.si/SiStatDb/pxweb/sl/20_Ekonomsko/20_Ekonomsko__19_gradbenistvo__05_19069_graditev_stan/1906901S.px/)
+https://pxweb.stat.si/SiStatDb/pxweb/sl/20_Ekonomsko/20_Ekonomsko__19_gradbenistvo__05_19069_graditev_stan/1906910S.px/)
+https://pxweb.stat.si/SiStatDb/pxweb/sl/20_Ekonomsko/20_Ekonomsko__19_gradbenistvo__05_19069_graditev_stan/1906911S.px/)
+https://pxweb.stat.si/SiStatDb/pxweb/sl/20_Ekonomsko/20_Ekonomsko__19_gradbenistvo__05_19238_graditev_stavb/1923801S.px/)
+https://pxweb.stat.si/SiStatDb/pxweb/sl/20_Ekonomsko/20_Ekonomsko__19_gradbenistvo__07_19198_vrednost_del/1919801S.px/)
+https://pxweb.stat.si/SiStatDb/pxweb/sl/20_Ekonomsko/20_Ekonomsko__19_gradbenistvo__06_19707_dovoljenja/1970716S.px/)
+https://pxweb.stat.si/SiStatDb/pxweb/sl/20_Ekonomsko/20_Ekonomsko__19_gradbenistvo__06_19707_dovoljenja/1970717S.px/)
+
 
 ## Program
 
