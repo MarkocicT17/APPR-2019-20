@@ -8,7 +8,7 @@ test
 ## Tematika
 V tej projektni nalogi bom analizirala gradbeništvo v Sloveniji s pomočjo podatkov pridobljenih na spletni strani Statističnega urada Republike Slovenije(SURS). 
 
-Pokazati želim, kako se ocena stanovanj in stavb različnih velikosti razlikujejo po občinah, statističnih regijah med leti 2008 do 2018 za določen tip investitorja(pravna ali fizična oseba). Od rezultatov pričakujem ugotovitve:
+Pokazati želim, kako se ocena stanovanj in stavb različnih velikosti razlikujejo po občinah, statističnih regijah med leti 2008 do 2018 za določen tip investitorja(pravna ali fizična oseba). Podatke bom razvrstila glede na:
 
 *vrednost gradnje glede na tip investitorja, tip stavbe, statistične regije, občine
 
